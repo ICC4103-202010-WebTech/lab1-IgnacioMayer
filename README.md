@@ -10,4 +10,4 @@ Consequently, the body is programed. It seems that in this place elements are ma
 
 Analyzing, the files that this webpage use as source for functioning, we can see that there are different types of them, some are given with the tag  hn.js that contains a lot of functions which I presume works as the controller of page. Then another important sorce are those with the .css ending where mainly visual characteristics are described for this site. 
 
-Now inspecting, the network time responses, it is noticeable that this page use seven request that take an average of 740 milliseconds to execute. In the other hand, the method used unanimously is by the HTTP is the GET method, being nginx its principal and only server. 
+Now inspecting the network time responses, it is noticeable that this page use seven request that take an average of 740 milliseconds to execute. In the other hand, the method used unanimously by the HTTP is the GET method, being nginx its principal and only server. 
