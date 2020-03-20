@@ -1,6 +1,7 @@
 Task 1- Report
 
 1- Describe the structure of the document
+
 Overall, as can be seen in this webpage the html is built upon hierarchies, where different features encapsulate smaller ones (each tag present in the structure of the html must be open and closed).  
 
 Describing the structure from the top, the first element is the opening tag for the html. Following this there is the Head, where the link, port and name of the website are written.  
